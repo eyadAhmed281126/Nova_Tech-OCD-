@@ -1,0 +1,9 @@
+Department,Department_Head,Location,Cost_Center,Extension
+Engineering,Ahmed Samir,"3rd floor, Cairo HQ",ENG-100,410
+Data & AI,Omar Khaled,"4th floor, Cairo HQ",DAI-200,420
+Product,Hassan Gamal,"2nd floor, Cairo HQ",PRD-300,430
+Human Resources,Laila Mahmoud,"1st floor, Cairo HQ",HR-400,100
+Finance,Tamer Wahba,"1st floor, Cairo HQ",FIN-500,300
+Marketing,Rania Saleh,Dubai office,MKT-600,440
+Sales,Salma Nabil,Dubai office,SAL-700,450
+IT Security,Mariam Zaki,"3rd floor, Cairo HQ",SEC-800,200

@@ -1,0 +1,31 @@
+Employee_ID,Name,Department,Job_Title,Manager,Hire_Date,Office,Work_Mode,Salary_Grade,Annual_Leave_Balance_Days,Email
+E001,Ahmed Samir,Engineering,Engineering Director,Nadia Farouk,2015-03-01,Cairo,Onsite,G5,12,ahmed.samir@novatech.example
+E002,Nadia Farouk,Engineering,VP Engineering,Karim Mostafa,2015-01-15,Cairo,Hybrid,G5,18,nadia.farouk@novatech.example
+E003,Sara Hassan,Data & AI,Senior ML Engineer,Omar Khaled,2021-06-10,Cairo,Hybrid,G3,14,sara.hassan@novatech.example
+E004,Omar Khaled,Data & AI,Head of Data & AI,Nadia Farouk,2017-09-01,Cairo,Hybrid,G4,9,omar.khaled@novatech.example
+E005,Mona Adel,Product,Product Manager,Hassan Gamal,2019-02-20,Alexandria,Hybrid,G4,11,mona.adel@novatech.example
+E006,Hassan Gamal,Product,Product Director,Karim Mostafa,2016-05-05,Cairo,Onsite,G5,20,hassan.gamal@novatech.example
+E007,Youssef Ali,Engineering,Backend Developer,Ahmed Samir,2022-08-14,Cairo,Hybrid,G2,16,youssef.ali@novatech.example
+E008,Laila Mahmoud,Human Resources,HR Manager,Karim Mostafa,2018-11-01,Cairo,Onsite,G4,7,laila.mahmoud@novatech.example
+E009,Karim Mostafa,Executive,Chief Operating Officer,,2015-01-01,Cairo,Onsite,G5,5,karim.mostafa@novatech.example
+E010,Dina Tarek,Finance,Senior Accountant,Tamer Wahba,2020-01-12,Cairo,Onsite,G3,13,dina.tarek@novatech.example
+E011,Tamer Wahba,Finance,Finance Director,Karim Mostafa,2016-09-18,Cairo,Onsite,G5,15,tamer.wahba@novatech.example
+E012,Rania Saleh,Marketing,Marketing Lead,Hassan Gamal,2019-07-07,Dubai,Hybrid,G4,10,rania.saleh@novatech.example
+E013,Mostafa Ibrahim,Sales,Sales Executive,Salma Nabil,2023-03-05,Dubai,Onsite,G2,19,mostafa.ibrahim@novatech.example
+E014,Salma Nabil,Sales,Sales Manager,Karim Mostafa,2017-04-23,Dubai,Hybrid,G4,8,salma.nabil@novatech.example
+E015,Khaled Fathy,IT Security,Security Analyst,Mariam Zaki,2021-10-03,Cairo,Hybrid,G3,17,khaled.fathy@novatech.example
+E016,Mariam Zaki,IT Security,Head of IT Security,Ahmed Samir,2016-12-01,Cairo,Onsite,G4,6,mariam.zaki@novatech.example
+E017,Ali Hossam,Engineering,Frontend Developer,Ahmed Samir,2024-02-11,Alexandria,Remote,G2,21,ali.hossam@novatech.example
+E018,Heba Mansour,Data & AI,Data Analyst,Omar Khaled,2023-09-17,Cairo,Hybrid,G2,20,heba.mansour@novatech.example
+E019,Ziad Magdy,Engineering,DevOps Engineer,Ahmed Samir,2020-05-31,Cairo,Hybrid,G3,12,ziad.magdy@novatech.example
+E020,Nour Elsayed,Marketing,Content Specialist,Rania Saleh,2024-06-02,Alexandria,Remote,G1,21,nour.elsayed@novatech.example
+E021,Fatma Ragab,Human Resources,HR Specialist,Laila Mahmoud,2022-01-09,Cairo,Onsite,G2,15,fatma.ragab@novatech.example
+E022,Mahmoud Yasser,Data & AI,ML Engineer,Omar Khaled,2022-11-20,Cairo,Hybrid,G3,10,mahmoud.yasser@novatech.example
+E023,Yara Hegazy,Product,UX Designer,Mona Adel,2021-03-28,Alexandria,Hybrid,G3,14,yara.hegazy@novatech.example
+E024,Amr Diab Hamed,Sales,Account Manager,Salma Nabil,2020-08-16,Dubai,Onsite,G3,9,amr.hamed@novatech.example
+E025,Reem Fouad,Finance,Financial Analyst,Tamer Wahba,2023-05-14,Cairo,Hybrid,G2,18,reem.fouad@novatech.example
+E026,Hossam Zaher,Engineering,Junior Developer,Ahmed Samir,2025-01-19,Cairo,Onsite,G1,21,hossam.zaher@novatech.example
+E027,Nada Reda,Data & AI,Junior Data Scientist,Omar Khaled,2025-04-06,Cairo,Hybrid,G1,21,nada.reda@novatech.example
+E028,Bassem Lotfy,IT Security,Penetration Tester,Mariam Zaki,2022-06-26,Cairo,Remote,G3,13,bassem.lotfy@novatech.example
+E029,Hana Sherif,Marketing,Social Media Manager,Rania Saleh,2021-12-12,Dubai,Hybrid,G3,11,hana.sherif@novatech.example
+E030,Tarek Nasr,Sales,Sales Executive,Salma Nabil,2025-08-24,Alexandria,Onsite,G1,21,tarek.nasr@novatech.example
